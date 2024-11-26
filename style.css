@@ -25,8 +25,7 @@ h2 {
 }
 
 .chamada {
-    color: #f3a11f;
-    background-image: linear-gradient(#f0f5f8,#f3a11f);
+    color: #f0f5f8;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
