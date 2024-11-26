@@ -1,16 +1,15 @@
 body {
-    background-color:#f3a11f;
-    color:#f0f5f8;
+    background-color: #f3a11f;
+    color: #f0f5f8;
     font-family: sans-serif;
 }
 
 header {
     color: #20a154;
     font-size: 50px;
-    font-family: "Great Vibes", serif;
 }
 
-p{
+p {
     font-size: 25px;
 }
 
@@ -24,32 +23,36 @@ h2 {
     font-size: 35px;
     color: #ffffff;
 }
-  
+
 .chamada {
-    color:#f3a11f;
+    color: #f3a11f;
     background: #f0f5f8;
     padding-top: 80px;
     padding-bottom: 80px;
-    display: flex; /* torna flexivel = põe um do lado do outro */
-    justify-content: center; /* centralizar */   
+    display: flex;
+    /* torna flexivel = põe um do lado do outro */
+    justify-content: center;
+    /* centralizar */
 }
 
-.chamada-texto { 
+.chamada-texto {
     margin-right: 5%;
 }
 
-img{
+img {
     height: 200px;
 }
 
 .categoria {
-    padding-left: 20px; 
+    padding-left: 20px;
     padding-right: 20px;
-    background-image: linear-gradient( #f3a11f, #f0f5f8) ;
+    background-image: linear-gradient(#f3a11f, #f0f5f8);
 }
 
-.categoria-videos{
+.categoria-videos {
     display: flex;
-    overflow-x: auto; /* permite rolagem horizontal automática quando o  conteúdo exceder a largura da tela */
-    gap: 10px; /* adiciona espaçamento entre os elementos*/
+    overflow-x: auto;
+    /* permite rolagem horizontal automática quando o  conteúdo exceder a largura da tela */
+    gap: 10px;
+    /* adiciona espaçamento entre os elementos*/
 }
