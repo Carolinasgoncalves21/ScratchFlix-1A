@@ -26,8 +26,8 @@ h2 {
 }
   
 .chamada {
-    color:#344c9c;
-    background: #9494cc;
+    color:#f3a11f;
+    background: #f0f5f8;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
@@ -45,7 +45,7 @@ img{
 .categoria {
     padding-left: 20px; 
     padding-right: 20px;
-    background-image: linear-gradient( #9494cc, #166f40) ;
+    background-image: linear-gradient( #f3a11f, #f0f5f8) ;
 }
 
 .categoria-videos{
